@@ -20,5 +20,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-    print('hola mundo')
-    print('hola mundo2')
+    print('hola mundo loco')
